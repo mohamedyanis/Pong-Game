@@ -30,7 +30,7 @@ Begin           | Playing
 1. Download Processing3 from this link: https://processing.org/download/
 2. Install this repository, click <a href="https://github.com/mohamedyanis/fishing-game/archive/master.zip"> here </a> to install it.
 3. Extract the folder.
-4. Open the ```pong_game.pde``` file.
+4. Open the ```Pong_Game.pde``` file.
 5. Run it :)
 
 ## Contributing 💡
