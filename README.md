@@ -21,7 +21,7 @@ Please :star: this repo to help us improve the quality.
 ## Screenshots
 Begin           | Playing
 :---------------------:|:------------------:
-![screenshoot](screenshots/pp1.png) | ![screenshoot](screenshots/pp22.png)
+![screenshoot](screenshots/pp1.png) | ![screenshoot](screenshots/pp2.png)
 
 ## Requirements
 * processing3
